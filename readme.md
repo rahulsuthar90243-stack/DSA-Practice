@@ -1,1 +1,32 @@
-<h1>DSA Practice</h1>
+<h1>Data Structures & Algorithms (DSA) Practice</h1>
+
+<h3>A complete collection of DSA concepts organized folder-wise for easy learning and reference.</h3>
+<br>
+
+## 📚 Topics Covered
+
+- Binary Number System  
+- Bitwise Operators  
+- Arrays  
+- Vectors  
+
+---
+
+## 🛠 Language
+- C++
+
+---
+
+## 🎯 Goal
+- Improve problem solving  
+- Learn DSA step by step  
+
+---
+
+## ✍️ Note
+I will keep updating this repo with new DSA concepts and problems.
+
+---
+
+## 👨‍💻 Author
+Rahul Suthar
