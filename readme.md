@@ -7,8 +7,11 @@
 
 - Binary Number System  
 - Bitwise Operators  
-- Arrays  
+- Arrays Data Structure
 - Vectors  
+- Circular_Queue
+- kadanes_Algorithm
+- majority_Element
 
 ---
 
