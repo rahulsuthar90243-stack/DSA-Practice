@@ -1,8 +1,9 @@
 #include<iostream>
 #include<algorithm>
+#include<vector>
 using namespace std;
 
-int stock(int prices[], int n){
+int stock(vector<int>& prices, int n){
     int bestBuy = prices[0];
     int maxProfit = 0;
 
@@ -14,11 +15,11 @@ int stock(int prices[], int n){
     }
     return maxProfit;
 }
-
+ 
 int main(){
-    int prices[7] = {7, 1, 5, 3, 6, 4};
+    vector<int> prices = {7, 1, 5, 3, 6, 4};
 
-    int n = sizeof(prices) / sizeof(prices[0]);
+    int n = prices.size();
 
     cout << "The maximum profit is: " << stock(prices, n) << endl;
 
