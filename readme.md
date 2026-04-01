@@ -9,10 +9,10 @@
 - Bitwise Operators  
 - Arrays Data Structure
 - Vectors  
-- 
-Circular_Queue
+- Circular_Queue
 - kadanes_Algorithm
 - majority_Element
+- Practice Problems
 ---
 
 ## 🛠 Language
