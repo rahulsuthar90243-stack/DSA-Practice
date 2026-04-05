@@ -13,6 +13,10 @@
 - kadanes_Algorithm
 - majority_Element
 - Practice Problems
+- Brute force Approach
+- Optimal Approach // 2 Pointer Approach
+- Binary Search Approach
+
 ---
 
 ## 🛠 Language
