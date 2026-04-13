@@ -16,7 +16,10 @@
 - Brute force Approach
 - Optimal Approach // 2 Pointer Approach
 - Binary Search Approach
-
+- Sorting Algorithms
+- Leetcode Problems
+- Windowe Base Approach
+- Linked List
 ---
 
 ## 🛠 Language
