@@ -20,6 +20,10 @@
 - Leetcode Problems
 - Windowe Base Approach
 - Linked List
+- Hash_table
+- STL (Standard Template Library)
+- Hashing
+
 ---
 
 ## 🛠 Language
