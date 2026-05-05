@@ -24,6 +24,8 @@
 - STL (Standard Template Library)
 - Hashing
 - Recursion 
+- OPPS Concepts
+- Stack
 ---
 
 ## 🛠 Language
