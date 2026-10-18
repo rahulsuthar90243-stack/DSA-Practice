@@ -6,6 +6,7 @@ A complete, folder-wise collection of DSA concepts, patterns, and problem soluti
 
 ### 🔹 Arrays
 - **Array Data Structure** – Fundamentals of arrays and operations
+
 - **2D Array** – Working with matrices and multi-dimensional arrays
 - **181 Single Element in Sorted Array** – Binary search on sorted arrays
 - **Peak Index in Mountain Array** – Finding peak elements using binary search
@@ -14,6 +15,7 @@ A complete, folder-wise collection of DSA concepts, patterns, and problem soluti
 - **Container With Most Water** – Two-pointer optimization problem
 - **Majority Element** – Boyer-Moore voting algorithm
 - **Kadane's Algorithm** – Maximum subarray sum (DP on arrays)
+
 
 ### 🔹 Searching & Sorting
 - **Binary Search Algorithm** – Core binary search and its variations
@@ -24,15 +26,18 @@ A complete, folder-wise collection of DSA concepts, patterns, and problem soluti
 - **Binary Number System** – Number system conversions and concepts
 - **Bitwise Operators** – AND, OR, XOR, shifting, and bit tricks
 
+
 ### 🔹 Linked List
 - **Linked List** – Singly linked list operations and problems
 - **Singly Linked List** – Insertion, deletion, traversal, and reversal
+
 
 ### 🔹 Strings
 - **Palindrome** – Palindrome check techniques
 - **Reverse String** – In-place and pointer-based string reversal
 - **Permutation** – Generating permutations of strings/arrays
 - **Leetcode 38 – Count and Say (Permutation)** – String building pattern
+
 
 ### 🔹 Hashing
 - **Hash Table** – Concepts and implementation of hashing
