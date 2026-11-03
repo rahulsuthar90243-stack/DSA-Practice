@@ -1,99 +1,95 @@
-# Data Structures & Algorithms (DSA) Practice 🧠
+# DSA Practice 🧠
 
-A complete, folder-wise collection of DSA concepts, patterns, and problem solutions — built while learning and practicing algorithms in **C++**.
+A personal repository for learning and practicing Data Structures and Algorithms in C++. It contains folder-based implementations, problem-solving exercises, and interview-focused concepts covering arrays, strings, linked lists, trees, graphs, recursion, searching, sorting, and more.
 
-## 📚 Topics Covered
+## Overview
 
-### 🔹 Arrays
-- **Array Data Structure** – Fundamentals of arrays and operations
-- **2D Array** – Working with matrices and multi-dimensional arrays
-- **181 Single Element in Sorted Array** – Binary search on sorted arrays
-- **Peak Index in Mountain Array** – Finding peak elements using binary search
-- **Search in Rotated Sorted Array** – Modified binary search technique
-- **Product of Array Except Self** – Prefix & suffix product technique
-- **Container With Most Water** – Two-pointer optimization problem
-- **Majority Element** – Boyer-Moore voting algorithm
-- **Kadane's Algorithm** – Maximum subarray sum (DP on arrays)
+This repo is built as a hands-on practice space to strengthen:
 
-### 🔹 Searching & Sorting
-- **Binary Search Algorithm** – Core binary search and its variations
-- **Sorting Algorithms** – Merge sort, quick sort, and other classic algorithms
-- **Leetcode 75 – Sort Colors** – Dutch National Flag problem
+- Problem-solving fundamentals
+- Algorithmic thinking
+- Data structure understanding
+- C++ implementation skills
+- Interview preparation for coding rounds
 
-### 🔹 Number Systems & Bit Manipulation
-- **Binary Number System** – Number system conversions and concepts
-- **Bitwise Operators** – AND, OR, XOR, shifting, and bit tricks
+## Topics Covered
 
-### 🔹 Linked List
-- **Linked List** – Singly linked list operations and problems
-- **Singly Linked List** – Insertion, deletion, traversal, and reversal
+- Arrays and 2D arrays
+- Searching and sorting algorithms
+- Binary search and variants
+- Hashing and hash tables
+- Strings and pattern-based problems
+- Linked lists
+- Stacks and queues
+- Trees and binary trees
+- Graphs
+- Recursion
+- Sliding window and two-pointer techniques
+- Greedy and binary-search-on-answer problems
+- STL usage in C++
+- OOP concepts in C++
 
-### 🔹 Strings
-- **Palindrome** – Palindrome check techniques
-- **Reverse String** – In-place and pointer-based string reversal
-- **Permutation** – Generating permutations of strings/arrays
-- **Leetcode 38 – Count and Say (Permutation)** – String building pattern
+## Repository Structure
 
-### 🔹 Hashing
-- **Hash Table** – Concepts and implementation of hashing
-- **Hashing Problems** – Frequency counting and lookup optimization
+```text
+DSA-Practice/
+├── Array_Data_structure/
+├── 2DArray/
+├── 181SingleElementSortedArray/
+├── BinarySearchAlgorithm/
+├── BinaryTree/
+├── GraphDataStructure/
+├── Hash_Table/
+├── LinkedList/
+├── Sorting_Algorithms/
+├── recursion/
+├── reverseString/
+├── singly_linked_list/
+├── vector/
+├── practice/
+├── README.md
+└── ...
+```
 
-### 🔹 Data Structures
-- **Vector** – STL vector operations and use cases
-- **Circular Queue** – Implementation and applications
-- **Stack** – Stack-based problem solving
+## How to Use
 
-### 🔹 Binary Search on Answer
-- **Painter's Partition Problem** – Allocation using binary search
-- **Book Allocation Problem** – Minimizing maximum pages allocated
-- **Aggressive Cows Problem** – Maximizing minimum distance
-
-### 🔹 Recursion
-- **Recursion** – Base cases, recursive tree thinking, and problem breakdown
-
-### 🔹 Practice & Mixed Problems
-- **Practice** – General problem-solving practice
-- **Leetcode Problems** – Curated set of Leetcode solutions
-- **Two Pointer Approach** – Optimal technique for array/string problems
-- **Sliding Window Approach** – Window-based optimization technique
-- **Brute Force vs Optimal Approach** – Comparing naive and optimized solutions
-
-### 🔹 OOP Concepts
-- **OOPs Concepts** – Classes, objects, inheritance, and polymorphism in C++
-
-### 🔹 STL (Standard Template Library)
-- **STL** – Vectors, maps, sets, and other STL containers/utilities
-
-## 🛠 Language
-
-- **C++**
-
-## 🎯 Goal
-
-- Strengthen problem-solving and analytical thinking
-- Learn DSA concepts step by step, from basics to advanced
-- Build consistency through daily/weekly practice
-- Prepare for technical interviews and coding assessments
-
-## 📖 How to Use
-
-Each folder contains problem statements, solutions, and explanations for a specific topic.
+1. Open any topic folder.
+2. Read the code and logic in the `.cpp` files.
+3. Compile and run the program locally.
 
 ```bash
-cd <topic-folder>
-# Open the .cpp file and compile/run
 g++ filename.cpp -o output
 ./output
 ```
 
-## ✍️ Note
+Example:
 
-This repository is updated regularly with new DSA concepts, patterns, and problems as I continue learning.
+```bash
+g++ array_example.cpp -o array_example
+./array_example
+```
 
-## 👨‍💻 Author
+## Technologies
 
-**Rahul Suthar**
+- C++
+- Standard Template Library (STL)
+- Problem-solving approach using competitive programming patterns
+
+## Goals
+
+- Build consistency in DSA practice
+- Understand core concepts deeply
+- Improve speed and accuracy in coding interviews
+- Create a reusable collection of solutions and patterns
+
+## Notes
+
+This repository is updated regularly as I continue learning and solving more problems across different topics.
+
+## Author
+
+Rahul Suthar
 
 ---
 
-⭐ If you find this helpful, feel free to star the repo and follow along the journey!
+If you find this repository useful, feel free to star it and follow along for more learning updates.
