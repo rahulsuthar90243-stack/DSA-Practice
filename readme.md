@@ -4,6 +4,7 @@ A personal repository for learning and practicing Data Structures and Algorithms
 
 ## Overview
 
+<<<<<<< HEAD
 This repo is built as a hands-on practice space to strengthen:
 
 - Problem-solving fundamentals
@@ -11,9 +12,29 @@ This repo is built as a hands-on practice space to strengthen:
 - Data structure understanding
 - C++ implementation skills
 - Interview preparation for coding rounds
+=======
+### 🔹 Arrays
+- **Array Data Structure** – Fundamentals of arrays and operations
+
+- **2D Array** – Working with matrices and multi-dimensional arrays
+- **181 Single Element in Sorted Array** – Binary search on sorted arrays
+- **Peak Index in Mountain Array** – Finding peak elements using binary search
+- **Search in Rotated Sorted Array** – Modified binary search technique
+- **Product of Array Except Self** – Prefix & suffix product technique
+- **Container With Most Water** – Two-pointer optimization problem
+- **Majority Element** – Boyer-Moore voting algorithm
+- **Kadane's Algorithm** – Maximum subarray sum (DP on arrays)
+
+
+### 🔹 Searching & Sorting
+- **Binary Search Algorithm** – Core binary search and its variations
+- **Sorting Algorithms** – Merge sort, quick sort, and other classic algorithms
+- **Leetcode 75 – Sort Colors** – Dutch National Flag problem
+>>>>>>> 496734a08cea037fb69a010b010b967afe380e9a
 
 ## Topics Covered
 
+<<<<<<< HEAD
 - Arrays and 2D arrays
 - Searching and sorting algorithms
 - Binary search and variants
@@ -50,6 +71,24 @@ DSA-Practice/
 ├── README.md
 └── ...
 ```
+=======
+
+### 🔹 Linked List
+- **Linked List** – Singly linked list operations and problems
+- **Singly Linked List** – Insertion, deletion, traversal, and reversal
+
+
+### 🔹 Strings
+- **Palindrome** – Palindrome check techniques
+- **Reverse String** – In-place and pointer-based string reversal
+- **Permutation** – Generating permutations of strings/arrays
+- **Leetcode 38 – Count and Say (Permutation)** – String building pattern
+
+
+### 🔹 Hashing
+- **Hash Table** – Concepts and implementation of hashing
+- **Hashing Problems** – Frequency counting and lookup optimization
+>>>>>>> 496734a08cea037fb69a010b010b967afe380e9a
 
 ## How to Use
 
